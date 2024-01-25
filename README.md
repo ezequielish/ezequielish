@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezequielish</h1>
-<h3 align="center">A passionate frontend develI'm a software developer I like writing code (and sometimes I design things).oper from India</h3>
+<h3 align="center">A passionate frontend develI'm a software developer I like writing code (and sometimes I design things).</h3>
 
 - 📄 Know about my experiences [https://ezequielish.github.io/ezequiel/](https://ezequielish.github.io/ezequiel/)
 
